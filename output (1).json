@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "method": "AES",
+    "key": "ClaveSecreta123",
+    "original_message": "No soy un pajaro y ninguna red me atrapa Soy un ser humano libre con una voluntad independiente"
+  },
+  {
+    "id": 2,
+    "method": "AES",
+    "key": "ClaveSecreta123",
+    "original_message": "Es preciso reirse de las cosas para mantener el equilibrio"
+  },
+  {
+    "id": 3,
+    "method": "AES",
+    "key": "ClaveSecreta123",
+    "original_message": "Crees que sabes todas tus posibilidades. Entonces, otras personas llegan a tu vida y de repente hay muchas más"
+  },
+  {
+    "id": 4,
+    "method": "AES",
+    "key": "ClaveSecreta123",
+    "original_message": "Sea lo que sea de lo que estén hechas nuestras almas, la tuya y la mía están hechas de lo mismo"
+  },
+  {
+    "id": 5,
+    "method": "AES",
+    "key": "ClaveSecreta123",
+    "original_message": "on nuestras elecciones las que muestran quiénes somos realmente, mucho más que nuestras habilidades"
+  }
+]
